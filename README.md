@@ -1,4 +1,4 @@
-### Olá! Sou o Leandro Augusto 👋
+### Olá! 👋
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-augusto-leite/)
 <br/><br/>
 
@@ -14,7 +14,7 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/Css_Básico-777BB4?style=for-the-badge&logo=git&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/Html_Básico-00ADD8?style=for-the-badge&logo=git&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript_Básico-404D59?style=for-the-badge&logo=git&logoColor=white" />
-</div><br/>
+</div>
 
 ### Tecnologias que usei no meu portifólio:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandroAugusto89&hide_progress=true)
