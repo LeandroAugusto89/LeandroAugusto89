@@ -6,12 +6,12 @@
 <div style="display: inline_block">
   <img align="center" alt="" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
   <img align="center" alt="" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img align="center" alt="" src="https://img.shields.io/badge/AspNetCore-323330?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img align="center" alt="" src="https://img.shields.io/badge/Entity-ED8B00?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img align="center" alt="" src="https://img.shields.io/badge/Sql_Server-1572B6?style=for-the-badge&logo=sql&logoColor=white" />
+  <img align="center" alt="" src="https://img.shields.io/badge/AspNetCore-323330?style=for-the-badge" />
+  <img align="center" alt="" src="https://img.shields.io/badge/Entity-ED8B00?style=for-the-badge" />
+  <img align="center" alt="" src="https://img.shields.io/badge/Sql_Server-1572B6?style=for-the-badge" />
   <img align="center" alt="" src="https://img.shields.io/badge/JavaScript-404D59?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img align="center" alt="" src="https://img.shields.io/badge/Css-777BB4?style=for-the-badge&logo=css&logoColor=white" />
-  <img align="center" alt="" src="https://img.shields.io/badge/Html-00ADD8?style=for-the-badge&logo=html&logoColor=white" />
+  <img align="center" alt="" src="https://img.shields.io/badge/Css-777BB4?style=for-the-badge" />
+  <img align="center" alt="" src="https://img.shields.io/badge/Html-00ADD8?style=for-the-badge" />
   <img align="center" alt="" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
   <img align="center" alt="" src="https://img.shields.io/badge/Scrum-CC6699?style=for-the-badge" /><br><br>
 </div>
