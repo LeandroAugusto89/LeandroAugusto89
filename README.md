@@ -13,7 +13,7 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" /><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/Css_Básico-777BB4?style=for-the-badge&logo=git&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/Html_Básico-00ADD8?style=for-the-badge&logo=git&logoColor=white" />
-  <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript_Básico-404D59?style=for-the-badge&logo=git&logoColor=white" />
+  <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript_Básico-404D59?style=for-the-badge&logo=javascript&logoColor=white" />
 </div>
 
 ### Tecnologias que usei no meu portifólio:
