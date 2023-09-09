@@ -13,23 +13,23 @@
   <img align="center" alt="" src="https://img.shields.io/badge/Css-777BB4?style=for-the-badge&logo=css&logoColor=white" />
   <img align="center" alt="" src="https://img.shields.io/badge/Html-00ADD8?style=for-the-badge&logo=html&logoColor=white" />
   <img align="center" alt="" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
-  <img align="center" alt="" src="https://img.shields.io/badge/Scrum-CC6699?style=for-the-badge" />
+  <img align="center" alt="" src="https://img.shields.io/badge/Scrum-CC6699?style=for-the-badge" /><br><br>
 </div>
 
 ### Tecnologias que usei no meu portifólio:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandroAugusto89&hide_progress=true)
-<br/>
+<br/><br>
 
 ### Soft Skills:
 Comunicação, Trabalho em equipe, Liderança, Autoconhecimento, Dedicação, Adaptabilidade e Perseverança.
-<br/>
+<br/><br>
 
 ### Sobre mim:
 <div>
 
 Desenvolvedor de Software com início em 2021. Tenho mais de 10 anos de experiência no mercado financeiro, onde atuei como gerente de grandes bancos em cargos de liderança. Após 2021 decidi pela transição de carreira para a área de tecnologia.
   
-Focado nas tecnologias da C#, Entity Framework, AspNet Core, Sql Server, dentre outras que utilizo para criar aplicações web de alto nível de valor. Meus conhecimentos se baseiam no curso Superior em Análise e Desenvolvimento de Sistemas, cursos das plataformas Balta IO, Alura, Algomania, ProgBr e Dankicode. Também atuei de forma prática durante 60 dias em uma empresa de desenvolvimento. Iniciei os estudos de front-end (Html, Css, JavaScript, TypeScript e Angular) com objetivo de me tornar um desenvolvedor full-stack no futuro.
+Focado nas tecnologias da C#, Entity Framework, AspNet Core, Sql Server, dentre outras que utilizo para criar aplicações web de alto nível de valor. Meus conhecimentos se baseiam no curso Superior em Análise e Desenvolvimento de Sistemas, cursos das plataformas Balta IO, Alura, Algomania, ProgBr e Dankicode. Também atuei de forma prática durante 90 dias em uma empresa do ramo de desenvolvimento de sistemas. Continuo os estudos de front-end (TypeScript e Angular) com objetivo de me tornar um desenvolvedor full-stack em breve.
 
 Me considero organizado, criativo e muito empenhado em aprender novas tecnologias, com facilidade de comunicação e adaptação.
 
