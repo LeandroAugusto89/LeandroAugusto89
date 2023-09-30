@@ -27,11 +27,15 @@ Comunicação, Trabalho em equipe, Liderança, Autoconhecimento, Dedicação, Ad
 ### Sobre mim:
 <div>
 
-Desenvolvedor de Software com início em 2021. Tenho mais de 10 anos de experiência no mercado financeiro, onde atuei como gerente de grandes bancos em cargos de liderança. Após 2021 decidi pela transição de carreira para a área de tecnologia.
-  
-Focado nas tecnologias da C#, Entity Framework, AspNet Core, Sql Server, dentre outras que utilizo para criar aplicações web de alto nível de valor. Meus conhecimentos se baseiam no curso Superior em Análise e Desenvolvimento de Sistemas, cursos das plataformas Balta IO, Alura, Algomania, ProgBr e Dankicode. Também atuei de forma prática durante 90 dias em uma empresa do ramo de desenvolvimento de sistemas. Continuo os estudos de front-end (TypeScript e Angular) com objetivo de me tornar um desenvolvedor full-stack em breve.
+Desenvolvedor de Software iniciado em 2021. Tenho mais de 10 anos de experiência no mercado financeiro, onde atuei como gerente comercial de grandes bancos em cargos de liderança. Em 2021 decidi pela transição de carreira. Sempre aberto para aprender novas tecnologias e adquirir novos conhecimentos
+
+Possuo foco no desenvolvimento web fullstack (C#, Entity Framework, AspNet Core, JavaScript, Html, Css, Sql Server, dentre outras tecnologias que uso para criar aplicações de alto nível de valor. Meus conhecimentos se baseiam nos cursos do Balta IO, Universidade Unicesumar em ADS, Alura, Algomania, ProgBr e Dankicode. Atuei de forma prática durante 90 dias em uma empresa de desenvolvimento, com intuito de colocar em prática as tecnologias já aprendidas. Atualmente estudo TypeScript e Angular com o objetivo de me tornar um desenvolvedor fullstack ainda mais completo no futuro.
 
 Me considero organizado, criativo e muito empenhado em aprender novas tecnologias, com facilidade de comunicação e adaptação.
 
 Se pudesse me definir em três palavras, seriam: perseverança, esforçado e otimista.
+
+E-mail de contato: leandroaugusto89@yahoo.com.br
+Github: LeandroAugusto89
+Linkedin: https://www.linkedin.com/in/leandro-augusto-leite/
 </div>
