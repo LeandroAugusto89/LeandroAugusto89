@@ -35,7 +35,7 @@ Me considero organizado, criativo e muito empenhado em aprender novas tecnologia
 
 Se pudesse me definir em três palavras, seriam: perseverança, esforçado e otimista.
 
-E-mail de contato: leandroaugusto89@yahoo.com.br
-Github: LeandroAugusto89
+E-mail de contato: leandroaugusto89@yahoo.com.br<br>
+Github: LeandroAugusto89<br>
 Linkedin: https://www.linkedin.com/in/leandro-augusto-leite/
 </div>
